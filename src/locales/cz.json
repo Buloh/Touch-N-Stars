@@ -16,7 +16,7 @@
   },
   "app": {
     "title": "Touch'N'Stars",
-    "unreachable": "NINA-API je momentálně nedostupné nebo používáte jeho zastaralou verzi",
+    "unreachable": "NINA-API je momentálně nedostupná nebo používáte zastaralou verzi",
     "connecting": "Pokus o připojení"
   },
   "setup": {
@@ -77,7 +77,7 @@
       "connectAllError": "Chyba při připojování všech zařízení",
       "disconnectAllError": "Chyba při odpojování všech zařízení",
       "filter": {
-        "connect": "Připojení filtračního kola",
+        "connect": "Připojit filtrační kolo",
         "disconnect": "Odpojení filtračního kola",
         "error": "Chyba při ovládání filtračního kola:"
       },
@@ -215,7 +215,7 @@
         "lunar": "Lunární",
         "solar": "Solární",
         "king": "King",
-        "stop": "zastavit",
+        "stop": "Zastavit",
         "errors": {
           "park": "Chyba při parkování montáže",
           "unpark": "Chyba při odparkování montáže",
@@ -225,8 +225,8 @@
       },
       "info": {
         "notConnected": "Připojte montáž",
-        "parked": "Parkování",
-        "unparked": "Odparkování",
+        "parked": "Parkováno",
+        "unparked": "Odparkováno",
         "trackingActive": "Sledování je aktivní",
         "trackingDisabled": "Sledování vypnuto",
         "slewing": "Montáž přejíždí",
@@ -252,7 +252,7 @@
       "autofocus_error": "AutoOstření chyba",
       "please_connect_focuser": "Připojte ostření",
       "current_position": "Současná pozice:",
-      "temperature": "Teploty:",
+      "temperature": "Teplota:",
       "moving": "V pohybu",
       "stopped": "Zastaveno",
       "autofocus_active": "AutoOstření aktivní",
@@ -379,8 +379,8 @@
       "brightness": "Jas:",
       "toggle_light": "Světlo:",
       "cover": {
-        "close": "kryt zavřen",
-        "open": "kryt otevřen"
+        "close": "Kryt zavřít",
+        "open": "Kryt otevřít"
       },
       "title": "Flat box"
     },
@@ -395,7 +395,7 @@
       "pressure": "Tlak"
     },
     "switch": {
-      "gauges": "Měřidla",
+      "gauges": "Měřiče",
       "switch": "Přepínač"
     }
   }
