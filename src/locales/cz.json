@@ -257,7 +257,7 @@
         "notSlewing": "Nepřejíždí",
         "declination": "Dec",
         "rightAscension": "Ra",
-        "timeToMeridianFlip": "Time to Meridian Flip"
+        "timeToMeridianFlip": "Čas na Překlopení Poledník"
       },
       "location_sync": {
         "noSync": {
